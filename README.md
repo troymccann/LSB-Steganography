@@ -1,3 +1,5 @@
+Codeword: SDWijarSwVT4g5s
+
 LSB-Steganography
 =================
 
